@@ -1,0 +1,1 @@
+Summary: Git tracks changes locally, while Github repostries for collaboration using braces and PRs.
